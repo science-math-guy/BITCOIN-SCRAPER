@@ -1,0 +1,17 @@
+{
+  "name": "bitcoin-scraper",
+  "version": "1.0.0",
+  "description": "BitCoin Web Scraper Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "node-cron": "^3.0.1"
+  }
+}
